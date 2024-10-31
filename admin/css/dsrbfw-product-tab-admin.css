@@ -1,0 +1,9 @@
+/* Product tab */
+#woocommerce-coupon-data ul.wc-tabs li.dsrbfw_data_options a::before, #woocommerce-product-data ul.wc-tabs li.dsrbfw_data_options a::before, .woocommerce ul.wc-tabs li.dsrbfw_data_options a::before {content: '\f185';}
+.dsrbfw_product_data_tab h3{margin: 0;}
+.dsrbfw_product_data_tab p{line-height: 28px;}
+.dsrbfw_product_data_tab p.rbs_product_data_desc{margin: 0;padding: 0;}
+.dsrbfw_product_data_tab .options_group{}
+.dsrbfw_product_data_tab .dsrbfw_product_data_container {padding: 12px;}
+.dsrbfw_product_data_tab .half-fields input, .dsrbfw_product_data_tab .half-fields select {width: 25%;margin-right: 10px;}
+.dsrbfw_product_data_tab .half-fields input:last-child, .dsrbfw_product_data_tab .half-fields select:last-child {width: 24%;margin-right: 0px;}

@@ -1,0 +1,962 @@
+# Copyright (C) 2024 theDotstore
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Revenue Booster for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2024-10-30 12:07:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language-Team: Sagar Jariwala <sagar.jariwala@multidots.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:139
+#: admin/class-revenue-booster-for-woocommerce-admin.php:160
+#: admin/class-revenue-booster-for-woocommerce-admin.php:169
+msgid "Are you sure you don't want to activate this offer?"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:140
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:319
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:427
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:320
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:428
+msgid "Delete"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:146
+msgid "Search for a product..."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:147
+msgid "Search for a category..."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:149
+#: admin/class-revenue-booster-for-woocommerce-admin.php:150
+msgid "Something went wrong!"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:151
+msgid "Do you really want to proceed with the delete action?"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:190
+msgid "DotStore Plugins"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:276
+msgid "If you like installing "
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:276
+msgid ", please leave us &#9733;&#9733;&#9733;&#9733;&#9733; ratings on "
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:276
+msgid "DotStore"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:326
+#: admin/class-revenue-booster-for-woocommerce-admin.php:382
+msgid "Rules Per Page"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:407
+#: admin/class-revenue-booster-for-woocommerce-admin.php:618
+msgid "Revenue Booster"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:439
+#: admin/class-revenue-booster-for-woocommerce-admin.php:446
+#: admin/class-revenue-booster-for-woocommerce-admin.php:632
+#: admin/class-revenue-booster-for-woocommerce-admin.php:645
+#: admin/partials/dsrbfw-global-settings.php:82
+msgid "Frequently Bought Together"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:440
+#: admin/class-revenue-booster-for-woocommerce-admin.php:633
+msgid ""
+"Showcase these related products on the product page for easy selection, "
+"adding them to your cart with just one click."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:445
+#: admin/class-revenue-booster-for-woocommerce-admin.php:644
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:49
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:193
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:49
+msgid "Title"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:449
+#: admin/class-revenue-booster-for-woocommerce-admin.php:656
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:206
+msgid "Description"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:451
+#: admin/class-revenue-booster-for-woocommerce-admin.php:657
+msgid "Use this to \"pitch\" the bundle to your customers."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:454
+#: admin/class-revenue-booster-for-woocommerce-admin.php:493
+msgid "Products"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:460
+#: admin/class-revenue-booster-for-woocommerce-admin.php:499
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1015
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:100
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:80
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:474
+#: admin/class-revenue-booster-for-woocommerce-admin.php:513
+msgid "Should be in stock and have price greater than zero."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:477
+msgid "Discount (Optional)"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:487
+#: admin/class-revenue-booster-for-woocommerce-admin.php:747
+msgid "After Add to Cart Popup"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:488
+#: admin/class-revenue-booster-for-woocommerce-admin.php:748
+msgid ""
+"View suggested products in a convenient popup after adding the main product "
+"to your cart, making shopping easier than ever!"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:670
+#: admin/class-revenue-booster-for-woocommerce-admin.php:761
+msgid ""
+"Tip: Upsells are products that are extra profitable or better quality or "
+"more expensive. Experiment with combinations to boost revenue."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:705
+msgid "Discount"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:707
+msgid ""
+"Save more when you buy these frequently bought together products as a "
+"bundle."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:727
+msgid "Discount type"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:731
+msgid "Percent"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:735
+msgid "Fixed"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:783
+msgid "At Checkout Add-On"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:806
+msgid "Before Order Add-On"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:838
+#: admin/class-revenue-booster-for-woocommerce-admin.php:903
+msgid "No search term provided."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:883
+#: admin/class-revenue-booster-for-woocommerce-admin.php:934
+#. translators: %1$s is replaced with "string" which show searched product name
+#. and %2$d is replaced with "number" which show searched product ID
+#. translators: %s is replaced with "string" which show searched category name
+#. and %d is replaced with "number" which show searched category ID
+msgid "#%2$d - %1$s"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:979
+msgid "Cart contains product"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:980
+msgid "Cart contains category's product"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:996
+msgid "Equal to ( = )"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:997
+msgid "Not Equal to ( != )"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1067
+msgid "Search for a category&hellip;"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1108
+msgid "Rule ID is not there!"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1112
+msgid "Invalid post type!"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1123
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1133
+msgid "Status not changed! Error occured!"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1137
+msgid "Status has been changed!"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1153
+msgid "Rule has been created."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1155
+msgid "Rule has been updated."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1157
+msgid "Rule has been deleted."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1159
+msgid "Rule has been duplicated."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1161
+msgid "Rule has been disabled."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1163
+msgid "Rule has been enabled."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1166
+msgid "There was an error with saving data."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1168
+msgid "There was an error with security check."
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1208
+#: admin/class-revenue-booster-for-woocommerce-admin.php:1211
+msgid "Addon Product"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:52
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:90
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:52
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:70
+msgid "Product"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:53
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:53
+msgid "Status"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:54
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:54
+msgid "Date"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:131
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:168
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:131
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:169
+msgid "N/A"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:143
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:144
+msgid "Trash"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:183
+msgid "No at checkout's order bump found!"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:317
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:318
+msgid "Enable"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:318
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:319
+msgid "Disable"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:424
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:425
+msgid "#"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:426
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:427
+msgid "Edit"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/class-ob-at-checkout-list-table.php:428
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:429
+msgid "Duplicate"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:29
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:28
+msgid "Update Rule"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:44
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:33
+msgid "Add Rule"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:69
+msgid "Offer Details"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:75
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:55
+msgid "Offer Status"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:76
+msgid "Activate this offer at checkout order bump or not"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:92
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:72
+msgid "Select a product to offer during checkout if the conditions are met."
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:117
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:97
+msgid "Offer Rules"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:119
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:99
+msgid "+ Add Rule"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:120
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:100
+msgid ""
+"This offer will activate when all rules are satisfy. otherwise it will show "
+"offer for every products."
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:175
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:155
+msgid "This offer will apply on all products."
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:187
+msgid "Order Bump Offer Design"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:196
+#. translators: %d is replaced with "number" which show title length globally
+#. declared on root file
+msgid "Customize order bump box title from here. (Max.: %d Chars.)"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:200
+msgid "Yes! I want to add this offer to my order"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:208
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:234
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:262
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:276
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:310
+msgid "Customize order bump box title from here."
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:212
+msgid "Enter additional content for order bump"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:218
+msgid "Show Product Image"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:219
+msgid "Either we need to show product image in order bump or not"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:233
+msgid "Title color"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:247
+msgid "Title Background"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:248
+msgid "Customize order bump box title background color from here."
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:261
+msgid "Border Color"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:275
+msgid "Border Style"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:281
+msgid "Solid"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:282
+msgid "Dashed"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:283
+msgid "Dotted"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:284
+msgid "Double"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:285
+msgid "Inset"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:286
+msgid "Outset"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:287
+msgid "Ridge"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:294
+msgid "Show Box Shadow"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:295
+msgid "It will add shadow effect in order bump"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-add-new.php:309
+msgid "Price Color"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-list-page.php:210
+msgid "Order Bump At Checkout"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-list-page.php:211
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-list-page.php:183
+msgid "Add New"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-list-page.php:217
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-list-page.php:189
+#. translators: %s is replaced with "string" which show searched string
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/list-tables/ob-at-checkout/dsrbfw-ob-at-checkout-list-page.php:223
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-list-page.php:195
+msgid "Search"
+msgstr ""
+
+#: admin/list-tables/ob-before-order/class-ob-before-order-list-table.php:184
+msgid "No before order's order bump found!"
+msgstr ""
+
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:49
+msgid "Create Offer"
+msgstr ""
+
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-add-new.php:56
+msgid "Activate this offer before order's order bump or not"
+msgstr ""
+
+#: admin/list-tables/ob-before-order/dsrbfw-ob-before-order-list-page.php:182
+msgid "Order Bump After Checkout"
+msgstr ""
+
+#: admin/partials/dsrbfw-get-started-page.php:16
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/dsrbfw-get-started-page.php:21
+msgid "This will create after testing!"
+msgstr ""
+
+#: admin/partials/dsrbfw-get-started-page.php:22
+msgid "This is black page for details of plugin"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:72
+msgid "Frequently Bought Together Settings"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:72
+msgid ""
+"Boost sales with smart upsells next to 'Add to Cart' button on product "
+"pages. Maximize revenue effortlessly!"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:77
+#: admin/partials/dsrbfw-global-settings.php:189
+msgid "Section Title"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:78
+msgid "We can customise title of section as per our need on frontend side."
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:88
+msgid "Product title link"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:89
+msgid "Add product link with title or not"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:103
+msgid "Product Image"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:104
+msgid "Show product image with product details or not"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:118
+msgid "Disable if exist in cart"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:119
+msgid "If product already in cart then dont show it in list"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:133
+msgid "AJAX Add to cart"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:134
+msgid "Do we need to add these group of products with ajax or with reload of page?"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:148
+msgid "Display Position"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:149
+msgid ""
+"This option will show diffrent place on product details page where it will "
+"show list of products."
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:154
+msgid "Before Single Product"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:155
+msgid "Before Single Product Summary"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:156
+msgid "Within Single Product Summary"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:157
+msgid "Before Add to Cart Form"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:158
+msgid "Before Variations Form"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:159
+msgid "Before Add to Cart Button"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:160
+msgid "Before Single Variation"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:161
+msgid "Within Single Variation"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:162
+msgid "Before Add to Cart Quantity"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:163
+msgid "After Add to Cart Quantity"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:164
+msgid "After Single Variation"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:165
+msgid "After Add to Cart Button"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:166
+msgid "After Variations Form"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:167
+msgid "After Add to Cart Form"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:168
+msgid "Before Meta"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:169
+msgid "After Meta"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:170
+msgid "Within Share Area"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:171
+msgid "After Single Product Summary"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:172
+msgid "After Single Product"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:184
+msgid "After Add to Cart Modal Settings"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:184
+msgid ""
+"These are post-addition suggestions that appear in a modal after adding a "
+"product to the cart, boosting your shopping experience."
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:190
+msgid "Title of add to cart modal can be customise from here."
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:194
+#: public/class-revenue-booster-for-woocommerce-public.php:1416
+msgid "You should try this!"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:200
+msgid "Popup Title BG Color"
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:201
+#: admin/partials/dsrbfw-global-settings.php:215
+msgid "Change background color of modal title section."
+msgstr ""
+
+#: admin/partials/dsrbfw-global-settings.php:214
+msgid "Popup Title Color"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:16
+#: admin/partials/header/plugin-header.php:85
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:20
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:21
+msgid "WooCommerce Plugin"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:24
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:28
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:31
+#. translators: %1$s is replaced with "string" which show License Name and %2$s
+#. is replaced with "string" which show Version number
+msgid "%1$s v%2$s"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:35
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:38
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:40
+msgid " to view license and terms of use."
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:44
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:48
+msgid "Quick Start"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:50
+msgid "Guide Documentation"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:52
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:58
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/dsrbfw-information-page.php:59
+msgid "English, German"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:35
+msgid "Plugin LOGO"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:46
+#: includes/class-revenue-booster-for-woocommerce.php:443
+msgid "Support"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:51
+msgid "Suggest"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:56
+msgid "Help"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:65
+msgid "Global Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:68
+msgid "Order Bumps"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:71
+msgid "After Checkout"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:74
+#: includes/class-revenue-booster-for-woocommerce.php:411
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:84
+msgid "About"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:86
+msgid "Shop Plugins"
+msgstr ""
+
+#: includes/class-revenue-booster-for-woocommerce.php:438
+msgid "Docs"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:131
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:132
+msgid "Please select a variation before adding the selected products to your cart."
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:133
+#: public/class-revenue-booster-for-woocommerce-public.php:2332
+msgid "Addon"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:317
+msgid "Current product"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:326
+#: public/class-revenue-booster-for-woocommerce-public.php:336
+#. translators: %s is replaced with "string" which show FBT content
+msgid "(%s)"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:345
+msgid "(Exist in cart)"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:436
+msgid "Total Price:"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:450
+msgid "Add Picked to Cart"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:614
+msgid "No product ID provided."
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:620
+msgid "This ID not belong to variable product."
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1006
+msgid "All products have been added to your cart."
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1007
+msgid "View cart"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1022
+#. translators: %s - product name.
+msgid "Sorry, the following product could not be added to the cart: \"%s\""
+msgid_plural "Sorry, the following products could not be added to the cart: \"%s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1195
+msgid "Bundle discount for "
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1428
+#. translators: %s is replaced with "string" which show name of product which
+#. added to cart
+msgid "%s was added to your cart!"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1451
+#. translators: %s - the cart subtotal.
+msgid "Cart subtotal: %s"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1459
+#. translators: %d - the number of items in the cart.
+msgid "Total: (%d Item)"
+msgid_plural "Total: (%d Items)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:1468
+msgid "View Cart "
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:2174
+#. Translators: Product Name.
+msgid "(Addon) %s"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:2208
+msgid "FBT product"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:2335
+msgid "Extra"
+msgstr ""
+
+#: public/class-revenue-booster-for-woocommerce-public.php:2386
+msgid "Whether a product was added via at checkout bump."
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-at-checkout.php:86
+msgid "Price:"
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:22
+msgid "Checkout"
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:23
+msgid "Offers"
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:24
+msgid "Place Order"
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:26
+msgid "Wait! Your order is almost complete..."
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:28
+msgid "Add this top pick to your basket before you check out!"
+msgid_plural "Add these %d top picks to your basket before you check out!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:123
+msgid "Add to Order"
+msgstr ""
+
+#: public/partials/revenue-booster-for-woocommerce-order-bump-before-order.php:126
+msgid "No, I am ok with it."
+msgstr ""
+
+#: revenue-booster-for-woocommerce.php:86
+msgid "Free"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:779
+msgctxt "Post Type General Name"
+msgid "At Checkout Add-Ons"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:802
+msgctxt "Post Type General Name"
+msgid "Before Order Add-Ons"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:780
+msgctxt "Post Type Singular Name"
+msgid "At Checkout Add-On"
+msgstr ""
+
+#: admin/class-revenue-booster-for-woocommerce-admin.php:803
+msgctxt "Post Type Singular Name"
+msgid "Before Order Add-On"
+msgstr ""

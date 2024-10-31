@@ -1,0 +1,35 @@
+@media screen and (max-width:782px){
+    .dsrbfw-section-left table.table-outer.dsrbfw-table-tooltip tr th label, .dsrbfw-section-left table.table-outer.dsrbfw-table-tooltip tr td label{
+        display: inline-block;
+    }   
+    .dsrbfw-section-left table.table-outer tr th, .dsrbfw-section-left table.table-outer tr td{
+        padding: 10px;
+    }
+    .dsrbfw-section-left table.table-outer tr th {
+        padding-bottom: 0;
+    }
+    .dsrbfw-section-left #dsrbfw-ob-filter tr td {
+        padding: 10px;
+    }
+    .dsrbfw-main-table .dsrbfw-rule-table tbody tr td .dsrbfw-color-wrap > input[type="text"]{
+        max-width: 130px !important;
+        min-width: 130px !important;
+    }
+    .dsrbfw-color-wrap{
+        height: 30px;
+    }
+    .dsrbfw-section-left span.select2.select2-container.select2-container--default {
+        width: 100% !important;
+    }
+    .dsrbfw-section-left #dsrbfw-ob-filter tr:not(.dsrbfw-no-filter-tr) td:first-child,
+    .dsrbfw-section-left #dsrbfw-ob-filter tr:not(.dsrbfw-no-filter-tr) td:nth-child(2),
+    .dsrbfw-section-left #dsrbfw-ob-filter tr:not(.dsrbfw-no-filter-tr) td:nth-child(3),
+    .dsrbfw-section-left #dsrbfw-ob-filter tr:not(.dsrbfw-no-filter-tr) td:last-child {
+        width: 100%;
+        display: block;
+    }
+    .dsrbfw-main-table .dsrbfw-rule-table tbody tr td input:not([type=button]):not([type=color]):not([type=checkbox]):not([type=radio]):not(.select2-search__field), .dsrbfw-main-table table.table-outer tr td textarea, .dsrbfw-main-table .dsrbfw-rule-table tbody tr td select,
+    .dsrbfw-section-left #dsrbfw-ob-filter tr td select{
+        max-width: 100%;
+    }
+}
